@@ -1,6 +1,7 @@
 # HR Data Analysis Dashboard | Power BI
 
 ## 📊 Overview
+[overview](SAVE_20250620_120224.jpg) 
 This project is an interactive **HR Data Analysis Dashboard** built using **Power BI**. It is designed to help HR teams and stakeholders gain insights into employee attrition, performance, demographics, and departmental distribution. The dashboard enables data-driven decisions to improve employee engagement, retention, and workforce planning.
 
 ---

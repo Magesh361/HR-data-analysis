@@ -26,9 +26,8 @@ This project is an interactive **HR Data Analysis Dashboard** built using **Powe
 
 ## 📂 Files Included
 
-- `HR_Dashboard.pbix` – Power BI file with visuals
-- `HR_Data.csv` – Sample HR dataset
-- `README.md` – Project documentation
+- [HR_Dashboard.pbix](https://github.com/Magesh361/HR-data-analysis/blob/main/hr%20data.pbix) – Power BI file with visuals
+- [HR_Data.csv](https://github.com/Magesh361/HR-data-analysis/blob/main/HR%20Data.xlsx) – Sample HR dataset
 
 ---
 
